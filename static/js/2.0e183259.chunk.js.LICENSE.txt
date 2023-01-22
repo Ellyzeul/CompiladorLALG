@@ -1,3 +1,5 @@
+/*! Copyright (c) 2011, Lloyd Hilaiel, ISC License */
+
 /**
  * @license React
  * react-dom.production.min.js

@@ -1,15 +1,13 @@
-program basic_program
+program basic_program;
 
-// comentário aleatório
+int a,b,c;
 
-{ mais um comentário
-   mas dessa vez de múltiplas linhas
-}@
-
-var aadsadsadasdasdasddad, b, c;
-
-b := 2;
-
-if (b <= 2) begin 
-   write(b); 
+procedure teste(var aa,bb:int; cc:boolean);
+begin
+    aa:= 5;
 end;
+
+begin
+    teste(a,b);
+    id:= 10;
+end.
